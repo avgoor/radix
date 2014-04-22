@@ -1,3 +1,5 @@
+/* Copyright (C) 2014 Denis V. Meltsaykin */
+
 #include <stdio.h>
 #include <stdlib.h>
 
